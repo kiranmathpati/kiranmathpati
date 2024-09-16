@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/C5112AQEoq9MxhwjOcA/article-cover_image-shrink_600_2000/0/1558900050534?e=2147483647&v=beta&t=S151jyZ2WZGWLfHpE9wj8W4_o1XIflHWJBk881m9R2Y)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHCxPh8A7l7VQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718822469270?e=1732147200&v=beta&t=o2a0ExXADwSSONYe0OA9NcO7eQSqqKCc4HqsHP3-rKE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Basavakiran</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/coding-freak-1.gif"> 
