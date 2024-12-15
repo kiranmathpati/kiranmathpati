@@ -1,4 +1,4 @@
-[![MasterHead](2wCEAAkGBxMSEhUTEhIWFhUVGRgYGBUXFxoYGRgYGRsXFhgXFxceHiggHhonGx0YITEhJSkrLi8uFx8zODMsNygtLisBCgoKDg0OFxAQFy0dHR0rLS0tLS0tLS0tLS0tLS0tLS0tKystLS0tLS0tLSstLSstLS0tLS0tLS0tLS0tLS0tLf)]
+
 <h1 align="center">Hi 👋, I'm Basavakiran</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/coding-freak-1.gif"> 
